@@ -4,7 +4,5 @@
   "main": "index.js",
   "author": "Mehdi BELDJILALI <m.beldjilali@neolynk.fr>",
   "license": "MIT",
-  "dependencies": {
-    "generate-changelog": "^1.7.1"
-  }
+  "dependencies": {}
 }
