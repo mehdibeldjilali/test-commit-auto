@@ -1,7 +1,10 @@
 {
   "name": "test-commit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Mehdi BELDJILALI <m.beldjilali@neolynk.fr>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "generate-changelog": "^1.7.1"
+  }
 }
