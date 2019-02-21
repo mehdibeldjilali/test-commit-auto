@@ -1,3 +1,11 @@
+#### 1.1.1 (2019-02-21)
+
+##### New Features
+
+* **server2:**  add server2.js (08e0c824)
+* **changelog:**  remove changelog package (6263728d)
+* **server.js:**  add fs (e0e7d92c)
+
 #### 1.1.0 (2019-02-20)
 
 ##### New Features
