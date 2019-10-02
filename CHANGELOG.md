@@ -1,3 +1,13 @@
+#### 1.2.1 (2019-10-02)
+
+##### Chores
+
+* **package.json:**  update package.json version for 1.2.1 (f4608e44)
+
+##### New Features
+
+* **touch:**  add touch (39e4df4b)
+
 #### 1.2.0 (2019-02-21)
 
 ##### New Features
