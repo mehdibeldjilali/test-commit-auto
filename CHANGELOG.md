@@ -1,3 +1,13 @@
+#### 1.2.2 (2019-10-03)
+
+##### Chores
+
+* **package.json:**  update package.json version for 1.2.2 (04aeec1c)
+
+##### New Features
+
+* **toto:**  add toto.js (7154a004)
+
 #### 1.2.1 (2019-10-02)
 
 ##### Chores
