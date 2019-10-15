@@ -1,3 +1,13 @@
+#### 1.2.3 (2019-10-15)
+
+##### Chores
+
+* **package.json:**  update package.json version for 1.2.3 (6062dd03)
+
+##### Bug Fixes
+
+* **file:**  add file (dabc472b)
+
 #### 1.2.2 (2019-10-03)
 
 ##### Chores
