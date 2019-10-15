@@ -1,3 +1,14 @@
+#### 1.3.0 (2019-10-15)
+
+##### Chores
+
+* **package.json:**  update package.json version for 1.3.0 (5d2f143f)
+
+##### New Features
+
+* **release:**  branch (45f111fd)
+* **develop:**  develop is a head 1 from master (80de4919)
+
 #### 1.2.3 (2019-10-15)
 
 ##### Chores
