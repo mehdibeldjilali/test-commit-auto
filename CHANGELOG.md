@@ -1,3 +1,9 @@
+#### 1.5.1 (2021-06-07)
+
+##### Refactors
+
+*  test release with tag (ed0b963b)
+
 #### 1.5.0 (2021-06-07)
 
 ##### Breaking Changes
