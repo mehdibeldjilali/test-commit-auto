@@ -1,3 +1,13 @@
+#### 1.6.0 (2021-06-07)
+
+##### Chores
+
+* **package.json:**  update package.json version for 1.6.0 (e946fb52)
+
+##### Refactors
+
+*  branch release with tag (e2c82b79)
+
 #### 1.5.3 (2021-06-07)
 
 ##### Chores
