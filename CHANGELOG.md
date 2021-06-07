@@ -1,3 +1,15 @@
+#### 1.5.3 (2021-06-07)
+
+##### Chores
+
+* **package.json:**
+  *  update package.json version for 1.5.3 (6e0530fc)
+  *  update package.json version for 1.5.2 (7036035b)
+
+##### Refactors
+
+*  release branch without tag (16549025)
+
 #### 1.5.1 (2021-06-07)
 
 ##### Refactors
