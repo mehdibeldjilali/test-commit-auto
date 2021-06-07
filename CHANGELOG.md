@@ -1,3 +1,13 @@
+#### 1.6.1 (2021-06-07)
+
+##### Chores
+
+* **package.json:**  update package.json version for 1.6.1 (c3d12935)
+
+##### Bug Fixes
+
+* **hotfix:**  hotfix without tag on master (33384d43)
+
 #### 1.6.0 (2021-06-07)
 
 ##### Chores
