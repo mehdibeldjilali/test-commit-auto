@@ -1,3 +1,13 @@
+#### 1.5.0 (2021-06-07)
+
+##### Breaking Changes
+
+* **test:**  test breaking change file [breaking] (1ddc4f24)
+
+##### Refactors
+
+*  test release without tag (bbef3000)
+
 #### 1.4.0 (2019-10-15)
 
 ##### New Features
