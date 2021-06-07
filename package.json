@@ -1,6 +1,6 @@
 {
   "name": "test-commit",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "main": "index.js",
   "author": "Mehdi BELDJILALI <m.beldjilali@neolynk.fr>",
   "license": "MIT",
