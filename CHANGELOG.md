@@ -1,3 +1,13 @@
+#### 1.6.2 (2021-06-07)
+
+##### Chores
+
+* **package.json:**  update package.json version for 1.6.2 (4a11d4c3)
+
+##### Other Changes
+
+*  fix 1.6.2 with follow tag on master (3cef87ed)
+
 #### 1.6.1 (2021-06-07)
 
 ##### Chores
