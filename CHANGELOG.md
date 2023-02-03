@@ -1,3 +1,10 @@
+#### 1.6.3 (2023-02-03)
+
+##### Chores
+
+* **UPGRADE.md:**  create file (b80137b9)
+* **package.json:**  remove email on author (1be48a00)
+
 #### 1.6.2 (2021-06-07)
 
 ##### Chores
