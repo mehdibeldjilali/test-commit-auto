@@ -1,3 +1,15 @@
+#### 1.8.0 (2023-06-29)
+
+##### Chores
+
+* **gitignore:**  add file into gitignore file (978ebbbd)
+
+##### Refactors
+
+*  second ticket TCA-2 (613ffe4f)
+*  first ticket TCA-1 (7b089c71)
+* **anotherfile:**  add anotherfile (0de16594)
+
 #### 1.7.0 (2023-06-14)
 
 ##### Tests
